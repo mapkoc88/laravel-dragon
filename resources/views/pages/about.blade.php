@@ -1,5 +1,6 @@
 @extends('layouts.default')
 @section('content')
+    <link rel="stylesheet" type="text/css" href="{{ url('/css/main.css') }}" />
     <section class="col-12">
         <div class="text-container center-block">
             <p class="card-text">Building a website is, in many ways, an exercise of willpower. It’s tempting to get distracted by the bells and whistles of the design process, and forget all about creating compelling content.

@@ -1,5 +1,6 @@
 @extends('layouts.default')
 @section('content')
+    <link rel="stylesheet" type="text/css" href="{{ url('/css/main.css') }}" />
     <section class="jumbotron center-block">
         <div class="container">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
