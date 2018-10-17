@@ -1,4 +1,4 @@
-<div class="navbar">
+<div class="nav-link">
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="/">Home</a></li>

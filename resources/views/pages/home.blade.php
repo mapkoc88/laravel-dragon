@@ -1,17 +1,17 @@
 @extends('layouts.default')
 @section('content')
-    <section class="jumbotron">
+    <section class="jumbotron center-block">
         <div class="container">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg" alt="First slide">
+                        <img class="d-block w-100" src="https://www.patriciamcconnell.com/theotherendoftheleash/wp-content/uploads/2018/04/willie-4-2-18.jpg" alt="First slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="http://www.guillermocinta.com/wp-content/uploads/2018/05/So%C3%B1ar-con-perros.jpg" alt="Second slide">
+                        <img class="d-block w-100" src="https://cdn.the-scientist.com/assets/articleNo/31203/iImg/3336/ac82744f-7d05-4a64-b4fb-97a87477a0eb-puppy.jpg" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="https://img.huffingtonpost.com/asset/5b7fdeab1900001d035028dc.jpeg?cache=sixpwrbb1s&ops=1910_1000" alt="Third slide">
+                        <img class="d-block w-100" src="https://wwwcache.wral.com/asset/news/local/2018/03/20/17430873/355566-Drago1-DMID1-5e62kxxfp-640x360.jpg" alt="Third slide">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -23,6 +23,7 @@
                     <span class="sr-only">Next</span>
                 </a>
             </div>
+        </div>
     </section>
     <section class="container">
         <div class="col-sm-4 text-center>">
@@ -54,32 +55,6 @@
                     <a href="#" class="btn btn-primary">Go somewhere</a>
                 </div>
             </div>
-        </div>
-    </section>
-    <section class="container">
-        <h2 style="text-align:center">The Doggy Table</h2>
-        <div class="table">
-            <table class="table table-sm">
-                <thead>
-                <tr>
-                    <th class="text-center">Types of exercise</th>
-                    <th class="text-center">Types of food</th>
-                    <th class="text-center">Type of companion pets</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <td>Walking</td>
-                    <td>Organic Ground Meet</td>
-                    <td>Dogs</td>
-                </tr>
-                <tr>
-                    <td>Jogging</td>
-                    <td>Chicken</td>
-                    <td>Cats</td>
-                </tr>
-                </tbody>
-            </table>
         </div>
     </section>
 @stop

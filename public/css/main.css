@@ -1,7 +1,6 @@
 .jumbotron {
-    background: #532F8C;
-    color: white;
     padding-bottom: 80px;
+    background: black;
 }
 .card-img-top {
     display: block;
@@ -10,6 +9,11 @@
 }
 th{
     color: blue;
+}
+.text-container{
+    font-size: 14px;
+    width: 640px;
+    height: 320px;
 }
 .table{
     text-align: center;
